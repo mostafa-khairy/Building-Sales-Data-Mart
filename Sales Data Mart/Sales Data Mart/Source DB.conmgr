@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-O4872J7.AdventureWorks2017"
+  DTS:DTSID="{6703677B-33CA-4DA3-9950-37E24CC6486D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-O4872J7;Initial Catalog=AdventureWorks2017;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Sales Data Mart-{6703677B-33CA-4DA3-9950-37E24CC6486D}DESKTOP-O4872J7.AdventureWorks2017;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

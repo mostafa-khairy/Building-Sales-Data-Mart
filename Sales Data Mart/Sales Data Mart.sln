@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Sales Data Mart", "Sales Data Mart\Sales Data Mart.dtproj", "{6937DC49-407F-4298-9757-55E8CFB2C10D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6937DC49-407F-4298-9757-55E8CFB2C10D}.Development|Default.ActiveCfg = Development
+		{6937DC49-407F-4298-9757-55E8CFB2C10D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF828A2-B0E0-46DA-B75B-04B609AD8784}
+	EndGlobalSection
+EndGlobal
